@@ -1,0 +1,1 @@
+<img src="{{asset('img/adl.png')}}" style="width:100px" alt="">
